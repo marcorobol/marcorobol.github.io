@@ -1,14 +1,11 @@
 ---
 title: Marco Robol 
-description: marco.robol@unitn.it
+description: University Of Trento
 ---
 
-[marco.robol@unitn.it](marco.robol@unitn.it)  
-Department of Information Engineering and Computer Science  
-University Of Trento  
-Trento - Italy
+[marco.robol@unitn.it](marco.robol@unitn.it)
 
-_Topics of Interest_: __Privacy__ - __Requirements Engineering__ - Software Engineering - __Conceptual Modeling__ - __Socio-Technical Systems__ - Automated Reasoning - Business Process Modelling - Goal Models - __Autonomous Agents__
+_Research Interests_: __Privacy__ - __Requirements Engineering__ - Software Engineering - __Conceptual Modeling__ - __Socio-Technical Systems__ - Automated Reasoning - Business Process Modelling - Goal Models - __Autonomous Agents__
 
 # Teaching
 
@@ -19,3 +16,11 @@ _Topics of Interest_: __Privacy__ - __Requirements Engineering__ - Software Engi
 # Research
 
 - [Publications On Google Scholar](https://scholar.google.com/citations?hl=it&user=tjC052EAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F73127_EEiomB86q_n15QmdQF0hqon2Fk6P1Ibg_sihcBA_bTfbKsbxr9IVItht2IAmKi5mpILcQe8K9W2neQimi8-wmSM9WvfgNwE7g-FBDrFmsmI)
+
+---
+Marco Robol
+PhD Candidate
+mail: [marco.robol@unitn.it](marco.robol@unitn.it)
+Department of Information Engineering and Computer Science  
+University Of Trento  
+Trento - Italy
