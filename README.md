@@ -1,6 +1,10 @@
+---
+title: Marco Robol - University Of Trento
+---
 
+Software Engineering - Requirements - Privacy - Autonomous Agents 
 
-hi
+- Teaching
+  - AOSE 2018: https://github.com/marcorobol/AoseDevKit2018-MultiAgentSystem
 
-- abc
-- dfg
+- Research
