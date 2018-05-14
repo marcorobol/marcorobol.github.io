@@ -2,11 +2,13 @@
 title: Marco Robol
 ---
 
-# PhD Student at the University Of Trento
+PhD Student at the University Of Trento
 
-## Software Engineering - Requirements - Privacy - Autonomous Agents 
+### Topics of Interest:
+Privacy - Requirements Engineering - Software Engineering - Conceptual Modeling - Socio-Technical Systems - Automated Reasoning - Business Process Modelling - Goal Models - Autonomous Agents
 
-- Teaching
-  - AOSE 2018: https://github.com/marcorobol/AoseDevKit2018-MultiAgentSystem
+# Teaching
 
-- Research
+- AOSE 2018: https://github.com/marcorobol/AoseDevKit2018-MultiAgentSystem
+
+# Research
