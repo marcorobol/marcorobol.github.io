@@ -1,5 +1,6 @@
 ---
 title: Marco Robol
+layout: post
 ---
 
 # PhD Student at the University Of Trento
