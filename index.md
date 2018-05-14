@@ -1,5 +1,5 @@
 ---
-title: My research profile on Github 
+title: Official page 
 author: author
 subtitle: subtitle
 ---
