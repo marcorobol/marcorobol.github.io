@@ -1,8 +1,3 @@
----
-title: Marco Robol
-layout: post
----
-
 # PhD Student at the University Of Trento
 
 ## Software Engineering - Requirements - Privacy - Autonomous Agents 
