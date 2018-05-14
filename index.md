@@ -8,9 +8,9 @@ University Of Trento - Trento - Italy
 
 # Teaching
 
-- AOSE 2017: https://github.com/marcorobol/2017-AoseLab-VRep
-- Sofware Engineering 2018: https://sites.google.com/a/unitn.it/software-engineering-ii---designing-applications-that-matter/home
-- AOSE 2018: https://github.com/marcorobol/AoseDevKit2018-MultiAgentSystem
+- [AOSE 2017](https://github.com/marcorobol/2017-AoseLab-VRep)
+- [Sofware Engineering 2018](https://sites.google.com/a/unitn.it/software-engineering-ii---designing-applications-that-matter/home)
+- [AOSE 2018](https://github.com/marcorobol/AoseDevKit2018-MultiAgentSystem)
 
 # Research
 
