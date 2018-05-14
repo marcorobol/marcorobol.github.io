@@ -1,15 +1,15 @@
 ---
-title: Marco Robol, PhD Student, Univesity Of Trento
+title: My research profile on Github 
 author: author
 subtitle: subtitle
 ---
 
-_Topics of Interest_: __Privacy__ - __Requirements Engineering__ - Software Engineering - __Conceptual Modeling__ - __Socio-Technical Systems__ - Automated Reasoning - Business Process Modelling - Goal Models - __Autonomous Agents__
+[marco.robol@unitn.it](marco.robol@unitn.it)  
+Department of Information Engineering and Computer Science  
+University Of Trento  
+Trento - Italy
 
-> [marco.robol@unitn.it](marco.robol@unitn.it)  
-> Department of Information Engineering and Computer Science  
-> University Of Trento  
-> Trento - Italy
+_Topics of Interest_: __Privacy__ - __Requirements Engineering__ - Software Engineering - __Conceptual Modeling__ - __Socio-Technical Systems__ - Automated Reasoning - Business Process Modelling - Goal Models - __Autonomous Agents__
 
 # Teaching
 
