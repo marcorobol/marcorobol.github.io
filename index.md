@@ -1,6 +1,8 @@
 ---
 title: Marco Robol 
-description: University Of Trento
+description: Department of Information Engineering and Computer Science  
+University Of Trento  
+Trento - Italy
 ---
 
 [marco.robol@unitn.it](marco.robol@unitn.it)  
