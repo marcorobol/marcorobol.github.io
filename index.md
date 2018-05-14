@@ -3,7 +3,9 @@ title: Marco Robol
 ---
 
 PhD Student in Computer Science
+
 marco.robol@unitn.it
+
 University Of Trento - Trento - Italy
 
 # Teaching
