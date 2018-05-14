@@ -18,7 +18,8 @@ __Privacy__ - __Requirements Engineering__ - Software Engineering - __Conceptual
 ---
 Marco Robol  
 PhD Candidate  
-mail: [marco.robol@unitn.it](marco.robol@unitn.it)  
-Department of Information Engineering and Computer Science  
+[ICT International Doctoral School](http://ict.unitn.it/)  
+[Department of Information Engineering and Computer Science](http://www.disi.unitn.it/)  
 University Of Trento  
-Trento - Italy
+Via Sommarive, 9 38123 Povo - Trento - Italy  
+mail: [marco.robol@unitn.it](marco.robol@unitn.it)  
