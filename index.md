@@ -10,7 +10,7 @@ __Privacy__ - __Requirements Engineering__ - Software Engineering - __Conceptual
 - [AOSE 2017](https://github.com/marcorobol/2017-AoseLab-VRep)
 - [Sofware Engineering 2018](https://sites.google.com/a/unitn.it/software-engineering-ii---designing-applications-that-matter/home)
 - [AOSE 2018](https://github.com/marcorobol/AoseDevKit2018-MultiAgentSystem)
-- [Sofware Engineering 2019 INF ORG](https://sites.google.com/unitn.it/seii-inf-org-unitn/apis-design-and-specs?pli=1&authuser=1)
+- [Sofware Engineering 2019 INF ORG](https://sites.google.com/unitn.it/seii-inf-org-unitn/home?authuser=1)
   - [Repository](https://github.com/marcorobol/2018-Trento-SEII-INFORG)
 
 # Research
