@@ -19,8 +19,8 @@ __Privacy__ - __Requirements Engineering__ - Software Engineering - __Conceptual
 
 # APSS Project
 
-- [STS project file](https://marcorobol.github.io/2018_0525_APSSv2Story1v3IMAGES.exp)
-- [Models image format](https://marcorobol.github.io/2018_0614 APSS diagrams images.zip)
+- [STS complete project file](https://marcorobol.github.io/2018_0525_APSSv2Story1v3IMAGES.exp)
+- [Diagrams as image files](https://marcorobol.github.io/2018_0614 APSS diagrams images.zip)
 
 ---
 Marco Robol  
