@@ -3,7 +3,7 @@ title: Marco Robol
 description: University Of Trento
 ---
 
-__Privacy__ - __Requirements Engineering__ - Software Engineering - __Conceptual Modeling__ - __Socio-Technical Systems__ - Automated Reasoning - Business Process Modelling - Goal Models - __Autonomous Agents__
+**Autonomous Systems** - BDI Agents - **Software Engineering** - Requirements Engineering - **Modeling** - **Socio-Technical Systems** - Automated Reasoning - **Privacy**
 
 # Teaching
 
@@ -14,12 +14,20 @@ __Privacy__ - __Requirements Engineering__ - Software Engineering - __Conceptual
   - [Repository](https://github.com/marcorobol/2018-Trento-SEII-INFORG)
 - [Sofware Engineering 1 2020](https://didatticaonline.unitn.it/dol/course/view.php?id=24400)
 - [Sofware Engineering 2 2020](https://didatticaonline.unitn.it/dol/course/view.php?id=26857)
+- ...
+- [Sofware Engineering 2024-2025](https://didatticaonline.unitn.it/dol/course/view.php?id=39287)
 
 # Research
 
 - [Publications On Google Scholar](https://scholar.google.com/citations?hl=it&user=tjC052EAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F73127_EEiomB86q_n15QmdQF0hqon2Fk6P1Ibg_sihcBA_bTfbKsbxr9IVItht2IAmKi5mpILcQe8K9W2neQimi8-wmSM9WvfgNwE7g-FBDrFmsmI)
 
-# APSS Project
+# Develop
+
+- [Deliveroo.js](https://github.com/unitn-ASA/Deliveroo.js)
+
+# Projects
+
+## APSS
 
 - [STS complete project file](https://marcorobol.github.io/2018_0525_APSSv2Story1v3IMAGES.exp)
 - [Diagrams as image files](https://marcorobol.github.io/2018_0614 APSS diagrams images.zip)
